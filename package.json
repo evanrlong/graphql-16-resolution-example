@@ -1,0 +1,9 @@
+{
+  "name": "graphql-16-resolution-example",
+  "packageManager": "yarn@3.2.0",
+  "dependencies": {
+    "apollo-server-express": "^3.6.6",
+    "express": "^4.17.3",
+    "graphql": "^16.3.0"
+  }
+}
